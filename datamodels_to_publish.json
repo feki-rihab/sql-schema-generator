@@ -1,0 +1,17 @@
+{
+    "dataModels": [
+        "WeatherForecast"
+    ],
+    "subject": "dataModel.Weather",
+    "filterDataModels": true,
+    "languages": [
+        "EN-US",
+        "FR",
+        "ES",
+        "DE",
+        "IT",
+        "JA",
+        "ZH"
+    ],
+    "versionType": "patch"
+}
