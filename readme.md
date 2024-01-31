@@ -22,13 +22,13 @@ To activate a virtual environment named "venv" in the root path, you can use the
 source venv/bin/activate
 ```
 
-5. **Run The Project:**
+# Run The Project (testing mode):
 Once the virtual environment is activated, the Python script can be run using the `poetry run` command. 
 
     For example, to run a script named `main.py`, use:
 
     ```shell
-    poetry run python main.py
+    python3 main.py
     ````
 
 # Environment Variables 
