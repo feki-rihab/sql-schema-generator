@@ -25,11 +25,11 @@ source venv/bin/activate
 # Run The Project (testing mode):
 Once the virtual environment is activated, the Python script can be run using the `poetry run` command. 
 
-    For example, to run a script named `main.py`, use:
+For example, to run a script named `main.py`, use:
 
-    ```shell
-    python3 main.py
-    ````
+```shell
+python3 main.py
+```
 
 # Environment Variables 
 
